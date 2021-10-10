@@ -1,1 +1,1 @@
-seedmage.py
+worker: python seedmage.py
